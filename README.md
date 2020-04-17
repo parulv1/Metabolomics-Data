@@ -9,7 +9,7 @@ Here is a description of each of the files:
 3. "VincristineAmount.csv": Quantitated vincrisine amount in each sample
 4. "MetabolomicsFiltered.csv": Metabolite profile matrix
 5. "MissingDataImputation.R": Code to perform imputation of missing peaks of the metabolite profile matrix
-6. "Metabolomics_CARET.R": Code to perform featue selection using the imputated metabolite profile matrices for each time point
+6. "Metabolomics_CARET.R": Code to perform featue selection using the imputed metabolite profile matrices for each time point
 
 ## Contact
 If you have questions regarding the usage of this data, please contact [Parul Verma](https://parulv1.github.io/).
