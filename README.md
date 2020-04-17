@@ -22,7 +22,7 @@ If you found this data useful, please cite the following work.
 @article{Verma2019VIPNp,
 title = {A {M}etabolomics {A}pproach for {E}arly {P}rediction of {V}incristine-{I}nduced {P}eripheral {N}europathy},
 author = {Verma, Parul and Deveraj, Jayachandran and Skiles, Jodi L. and Sajdyk, Tammy and
-          Ho, Richard H. and Hutchinson, Raymond and Wells, Elizabeth and   Li, Lang and  
+          Ho, Richard H. and Hutchinson, Raymond and Wells, Elizabeth and Li, Lang and  
           Renbarger, Jamie and Cooper, Bruce and Ramkrishna, Doraiswami},
 journal = {Preprint},
 year = {2019},
