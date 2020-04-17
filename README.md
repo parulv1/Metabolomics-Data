@@ -5,12 +5,11 @@ This contains the metabolomics profile data and the code to analyze it. Metabolo
 Here is a description of each of the files:
 
 1. "03JUNE16_BOX LAYOUT_Bindley Code.csv": Includes sample codes and the categories (time point and high/low neuropathy) they belong to
-2. "03JUNE16_Sample Key_With_Demographics.xlsx": Includes the following details of the samples: gender, date of first dose, age, dose, height, weight, BMI, BSA
-3. "TNSScore.csv": Time point-specific TNS score of each sample
-4. "VincristineAmount.csv": Quantitated vincrisine amount in each sample
-5. "MetabolomicsFiltered.csv": Metabolite profile matrix
-6. "MissingDataImputation.R": Code to perform imputation of missing peaks of the metabolite profile matrix
-7. "Metabolomics_CARET.R": Code to perform featue selection using the imputated metabolite profile matrices for each time point
+2. "03JUNE16_Sample Key_With_Demographics.xlsx": Includes the following details of the subjects: gender, age, dose, height, weight, BMI, BSA
+3. "VincristineAmount.csv": Quantitated vincrisine amount in each sample
+4. "MetabolomicsFiltered.csv": Metabolite profile matrix
+5. "MissingDataImputation.R": Code to perform imputation of missing peaks of the metabolite profile matrix
+6. "Metabolomics_CARET.R": Code to perform featue selection using the imputated metabolite profile matrices for each time point
 
 ## Contact
 If you have questions regarding the usage of this data, please contact [Parul Verma](https://parulv1.github.io/).
