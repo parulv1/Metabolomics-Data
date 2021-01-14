@@ -18,14 +18,14 @@ If you have questions regarding the usage of this data, please contact [Parul Ve
 If you found this data useful, please cite the following work.
 
 ```
-@article{Verma2019VIPNp,
-title = {A {M}etabolomics {A}pproach for {E}arly {P}rediction of {V}incristine-{I}nduced {P}eripheral {N}europathy},
-author = {Verma, Parul and Deveraj, Jayachandran and Skiles, Jodi L. and Sajdyk, Tammy and
-          Ho, Richard H. and Hutchinson, Raymond and Wells, Elizabeth and Li, Lang and  
-          Renbarger, Jamie and Cooper, Bruce and Ramkrishna, Doraiswami},
-journal = {Preprint},
-year = {2019},
-url = {https://www.medrxiv.org/content/10.1101/19013078v1}
+@article{Verma2020VIPNp,
+  title={A {M}etabolomics {A}pproach for {E}arly {P}rediction of {V}incristine-{I}nduced {P}eripheral {N}europathy},
+  author={Parul, Verma and Jayachandran, Devaraj and Skiles, Jodi L and Tammy, Sajdyk and Ho, Richard H and Hutchinson, Raymond and Wells, Elizabeth and Lang, Li and Jamie, Renbarger and Cooper, Bruce and others},
+  journal={Scientific Reports (Nature Publisher Group)},
+  volume={10},
+  number={1},
+  year={2020},
+  publisher={Nature Publishing Group}
 }
 ```
 
