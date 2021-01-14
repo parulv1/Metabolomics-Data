@@ -1,5 +1,5 @@
 ## Metabolomics data
-This contains the metabolomics profile data and the code to analyze it. Metabolomics data was used to find predictors of vincristine-induced peripheral neuropathy. See [the paper](https://www.medrxiv.org/content/10.1101/19013078v1) for details.
+This contains the metabolomics profile data and the code to analyze it. Metabolomics data was used to find predictors of vincristine-induced peripheral neuropathy. See [the paper](https://www.nature.com/articles/s41598-020-66815-y) for details.
 
 ## Data description
 Here is a description of each of the files:
